@@ -97,7 +97,7 @@ See [LICENSE](LICENSE) for full terms, or visit [creativecommons.org/licenses/by
 
 ## 👤 Author
 
-Built by **[Adrian CATANA]** — feel free to connect on [LinkedIn](https://linkedin.com/in/adrian-c-catana).
+Built by **Adrian CATANA** — feel free to connect on [LinkedIn](https://linkedin.com/in/adrian-c-catana).
 
 ---
 
