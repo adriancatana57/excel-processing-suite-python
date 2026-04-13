@@ -67,7 +67,7 @@ python vlookup_app.py
 ## 📁 Project Structure
 
 ```
-vlookup_app.py       # Main application (single file)
+excel_suite.py       # Main application (single file)
 assets/
   icon.ico           # App icon (optional, for Windows)
 ```
