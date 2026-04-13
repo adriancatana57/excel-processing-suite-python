@@ -26,6 +26,8 @@
 ## 🖥️ Screenshots
 
 > *(Add screenshots here after first run)*
+<img width="958" height="500" alt="Processing" src="https://github.com/user-attachments/assets/f76e199b-0bf3-4a1b-bb25-6ac7174e90b4" />
+<img width="959" height="502" alt="Complete" src="https://github.com/user-attachments/assets/d9321e9b-4349-4a0e-af44-fe599cc9db4a" />
 
 ---
 
@@ -55,10 +57,10 @@ python vlookup_app.py
 1. **Load the Main File** — the file you want to enrich (like the "lookup array" side)
 2. **Load the Reference File** — the file that contains the data you want to bring in
 3. **Choose key columns** — one from each file (the columns to match on)
-4. **Select columns to import** — which columns from the reference file to bring into the output
+4. **Select Columns to Import** — which columns from the reference file to bring into the output
 5. *(Optional)* Configure repeats, match-only filter, column selection, output format, and split settings
-6. Click **Previzualizează** to preview the first 5 rows
-7. Click **Procesează** to run the full export
+6. Click **Preview** to preview the first 5 rows
+7. Click **Process** to run the full export
 
 ---
 
