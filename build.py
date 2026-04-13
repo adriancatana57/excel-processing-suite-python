@@ -1,7 +1,7 @@
 # Advanced_VLookup_App
 # Copyright (c) 2025 Adrian CATANA
 # Licensed under CC BY-NC 4.0 — https://creativecommons.org/licenses/by-nc/4.0/
-# https://github.com/[adriancatana57]/[excel-processing-suite-python]
+# https://github.com/adriancatana57/excel-processing-suite-python
 import os
 import sys
 import csv
